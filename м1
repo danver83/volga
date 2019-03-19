@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
  <head>
-   <title>!DOCTYPE</title>
-   <meta charset="utf-8">
+	<meta charset="utf-8">
+	<title>Карусель</title>
+	<link rel="stylesheet" href="style.css"> 
  </head>
  <body>
 	<div class="carousel">
